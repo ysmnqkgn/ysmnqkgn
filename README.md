@@ -7,10 +7,6 @@
 
 - 🌱 Currently learning: **Flutter, Dart, C#, Unity, Git & GitHub**
 
-- 💬 Ask me about: **My learning journey in software development**
-
-- 📫 How to reach me: **akgunyasemin053@gmail.com**
-
 - 🔗 LinkedIn: [Yasemin Akgün](https://www.linkedin.com/in/yasemin-akg%C3%BCn-1ba31b221/)
 
 ---
