@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasemin</h1>
-<h3 align="center">An aspiring software developer learning Flutter and Unity</h3>
+<h3 align="center">I'm interested in software development and working on my own projects</h3>
 
 ---
 
