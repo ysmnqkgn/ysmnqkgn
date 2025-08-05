@@ -3,9 +3,8 @@
 
 ---
 
-- 🔭 Currently working on: **Small-scale Flutter apps & Unity games**
 
-- 🌱 Currently learning: **Flutter, Dart, C#, Unity, Git & GitHub**
+- 🌱 Currently learning: **Python, C#, Unity**
 
 - 🔗 LinkedIn: [Yasemin Akgün](https://www.linkedin.com/in/yasemin-akg%C3%BCn-1ba31b221/)
 
